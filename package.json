@@ -1,0 +1,17 @@
+{
+  "name": "testando-server-express",
+  "version": "1.0.0",
+  "description": "Testando como criar server com o express",
+  "main": "testando-express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Italo",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
